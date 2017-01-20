@@ -6,7 +6,7 @@
  * Time: 3:01 PM
  */
 
-namespace CGClabs\DoctrineConnection;
+namespace CGClabs\LaravelDoctrineConnection;
 
 use Illuminate\Support\ServiceProvider;
 
